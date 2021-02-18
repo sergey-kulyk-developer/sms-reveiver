@@ -1,0 +1,3 @@
+rootProject.name = "SMS Receiver"
+include ':app'
+include ':smsreceiver'
